@@ -1,8 +1,14 @@
-# React + Vite
+# Nature Theme README
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a project with a nature theme. The design was selected to create a visually appealing and calming experience for users.
 
-Currently, two official plugins are available:
+## Setup Instructions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To set up and run the project locally, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Install the necessary dependencies by running `npm install` in the project directory.
+3. Start the development server by running `npm run dev`.
+4. Open your web browser and navigate to `http://localhost:5173` to view the project.
+
+That's it! You should now be able to explore the nature-themed project locally.
